@@ -1,0 +1,8 @@
+F:\InterviewTasks\Sirma\BestTeam\BestTeam\bin\Debug\BestTeam.exe
+F:\InterviewTasks\Sirma\BestTeam\BestTeam\bin\Debug\BestTeam.pdb
+F:\InterviewTasks\Sirma\BestTeam\BestTeam\obj\Debug\BestTeam.csprojResolveAssemblyReference.cache
+F:\InterviewTasks\Sirma\BestTeam\BestTeam\obj\Debug\BestTeam.Properties.Resources.resources
+F:\InterviewTasks\Sirma\BestTeam\BestTeam\obj\Debug\BestTeam.csproj.GenerateResource.Cache
+F:\InterviewTasks\Sirma\BestTeam\BestTeam\obj\Debug\BestTeam.exe
+F:\InterviewTasks\Sirma\BestTeam\BestTeam\obj\Debug\BestTeam.pdb
+F:\InterviewTasks\Sirma\BestTeam\BestTeam\obj\Debug\BestTeam.TeamsForm.resources
